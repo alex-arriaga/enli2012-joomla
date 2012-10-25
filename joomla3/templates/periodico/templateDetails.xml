@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.0" type="template" client="site">
+	<name>Periodico</name>
+	<version>1.0</version>
+	<creationDate>24/10/2012</creationDate>
+	<author>Alex Arriaga</author>
+	<authorEmail>alex.arriaga.m@gmail.com</authorEmail>
+	<copyright>Copyright (C) 2005 - 2012. All rights reserved.</copyright>
+	<description>Plantilla de Ejemplo para Joomla!</description>
+	<files>
+		<filename>favicon.ico</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>debug</position>
+		<position>header</position>
+		<position>menu</position>
+		<position>block-top-1</position>
+		<position>block-top-2</position>
+		<position>left</position>
+		<position>middle</position>
+		<position>right</position>
+		<position>footer</position>
+	</positions>
+</extension>
